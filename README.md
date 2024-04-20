@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on *Practical Natural Language Processing*
+- 🔭 I’m currently working on *DATA ENGINEERING*
 
-- 🌱 I’m currently learning *Natural Language Processing (NLP)*
+- 🌱 I’m currently learning *LLMs*
 
 - 💬 Ask me about *Data science , NLP , MERN Stack*
 
