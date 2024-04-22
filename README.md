@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning *LLMs*
 
-- 💬 Ask me about *Data science , NLP , MERN Stack*
-
 - 📫 How to reach me *hichamelmoutaqui3@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
