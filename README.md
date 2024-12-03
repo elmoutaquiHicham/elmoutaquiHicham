@@ -30,10 +30,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> 
-</a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
@@ -42,6 +38,21 @@
 </a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github actions" width="40" height="40"/> 
+</a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> 
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a> 
+<a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/ec/Ibm-spss-logo.png" alt="spss" width="40" height="40"/> 
+</a> 
+<a href="https://learn.microsoft.com/en-us/office/vba/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Microsoft_Office_Excel_%282018–present%29.svg" alt="VBA Excel" width="40" height="40"/> 
 </a> 
 </p>
 
