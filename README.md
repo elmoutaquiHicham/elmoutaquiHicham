@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h6 align="center">Data Enthusiast</h6>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZic2J0Y3FtYnBodmxwdTFyY2c2dmZ1amtwZDJsbWk0MTk1Yms3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/plBdgZ6oVBLVdjwl6J/giphy.webp"/>
 
 - 🔭 I’m currently working on *DATA ENGINEERING*
 
